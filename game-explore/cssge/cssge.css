@@ -1,0 +1,89 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.header{
+	background:rgba(50, 500, 500, .8);
+	height:80px;
+	width:100%; 
+	margin:0px;
+	padding:0px;
+	cursor:pointer;
+	position:fixed;
+}
+#menu{
+	float:right;
+	height:40px;
+	width:40px;
+	margin-right:50px;
+	margin-top:20px;
+	border-radius:10px;
+}
+header{
+	background:url(../imgge/font.jpg);
+	background-size:cover;
+	height:600px;
+	width:100%; 
+	margin:0px;
+	padding:0px;
+}
+#youtube{
+	height:60px;
+	width:60px;
+	cursor:pointer;
+	border-radius:50px;
+	margin-left:100px;
+	margin-top:15px;
+}
+#entete1{
+	position:absolute;
+	background:rgba(10, 10, 10, .8);
+	height:100px;
+	width:100%;
+	border-radius:110px;
+	display:flex;
+	margin-top:250px;
+	margin-left:0px;
+	margin-right:0px;
+}
+.content{
+	/* background:rgba(10, 10, 10, .6); */
+	width:100%;
+	display:flex;
+	margin-top:50px;
+	overflow:auto;
+	background:rgba(200, 240, 200, .5);
+}
+#lienyoutube{
+	height:500px;
+	width:28%;
+	margin:0px;
+	padding:0px;
+	overflow:auto;
+	background:;
+}
+#lienjeux{
+	height:600px;
+	width:70%;
+	background:;
+	margin-left:25px;
+	padding:0px;
+}
+#telechargement{
+	height:100px;
+	width:50%;
+	background:;
+	font-family:arial;
+	font-size:20px;
+	margin-left:100px;
+}
+a{
+	font-size:px;
+}
+footer{
+	
+	height:400px;
+	width:100%;
+	background:rgba(20, 20, 20, .7);
+	margin-top:50px;
+}
